@@ -1,0 +1,10 @@
+name: vpython colab
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pip
+  - pip:
+    - vpython==7.6.5b5
+    - jupyter-collaboration
