@@ -7,5 +7,6 @@ dependencies:
   - pip
   - pip:
     - jupyterlab==4
+    - -i https://test.pypi.org/simple/ jupyterlab-vpython==3.1.8b2
     - vpython==7.6.5b5
     - jupyter-collaboration
