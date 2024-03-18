@@ -8,6 +8,5 @@ dependencies:
   - pip:
     - jupyterlab==4.1.4
     - notebook==7.1.1
-    - jupyterlab-vpython==3.1.8
-    - vpython==7.6.5b5
+    - vpython==7.6.5b6
     - jupyter-collaboration
